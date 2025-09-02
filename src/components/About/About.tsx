@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import vishal from "../../assets/vishalrupak.webp";
+import pugazh from "../../assets/pugazhendhi.jpeg";
 import wordpress from "../../assets/wordpress.svg";
 import htmlIcon from "../../assets/html-icon.svg";
 import cssIcon from "../../assets/css-icon.svg";
@@ -97,7 +97,7 @@ export function About() {
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.2 * 1000}>
-          <img src={vishal} alt="Pugazhendhi" />
+          <img src={pugazh} alt="Pugazhendhi" />
         </ScrollAnimation>
       </div>
     </Container>

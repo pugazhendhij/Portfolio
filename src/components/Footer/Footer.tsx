@@ -30,19 +30,11 @@ export function Footer() {
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://api.whatsapp.com/send/?phone=%2B919360165553&text=Hello+vishal"
+          href="https://api.whatsapp.com/send/?phone=%2B918870054809&text=Hello+Pugazh"
           target="_blank"
           rel="noreferrer"
         >
           <img src={whatsapp} alt="Whatsapp" />
-        </a>
-
-        <a
-          href="https://www.instagram.com/vishal._.v.r?utm_source=qr&igsh=MTVpeGhyZDg0aXM3YQ=="
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img src={instagramIcon} alt="Instagram" />
         </a>
       </div>
     </Container>

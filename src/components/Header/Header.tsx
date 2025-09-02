@@ -2,7 +2,7 @@ import { Container } from './styles'
 import { BrowserRouter as Router } from 'react-router-dom'
 import { NavHashLink} from 'react-router-hash-link'
 import { useState } from 'react'
-import Resume from '../../assets/vishal_rupak_resume.pdf'
+import Resume from '../../assets/pugazhendhi_cv.pdf'
 export function Header() {
   const [isActive, setActive] = useState(false)
   function toggleTheme() {
